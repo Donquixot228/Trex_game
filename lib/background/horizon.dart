@@ -6,6 +6,7 @@ import 'package:flame/components.dart';
 
 import '../obstacle/obstacle_manager.dart';
 import '../trex_game.dart';
+
 import 'cloud_manager.dart';
 
 
