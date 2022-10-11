@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:collection/collection.dart';
 import 'package:flame/components.dart';
 
+
 import '../obstacle/obstacle_manager.dart';
 import '../trex_game.dart';
 
