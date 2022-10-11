@@ -9,6 +9,7 @@ import '../trex_game.dart';
 import 'cloud_manager.dart';
 
 
+
 class Horizon extends PositionComponent with HasGameRef<TRexGame> {
   Horizon() : super();
 
